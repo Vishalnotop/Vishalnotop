@@ -1,4 +1,7 @@
-### Hi there 👋
+### echo "Hi there 👋 I'm VISHAL SAMANTA"
+
+### Wake Up to Reality!
+### Get a Cup of coffe and type some Code.
 
 <!--
 **Vishalnotop/Vishalnotop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=Vishalnotop&theme=midnight-purple&show_icons=true"> 
+<div>
+<a href="#"><img alt="Vishalnotop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishalnotop&custom_title=Vishalnotop's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a> 
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishalnotop&label=Profile%20views&color=0e75b6&style=flat" alt="Vishalnotop" /> </p>
