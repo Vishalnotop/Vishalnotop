@@ -1,7 +1,7 @@
 ### echo "Hi there 👋 I'm VISHAL SAMANTA"
 
-### Wake Up to Reality!
-### Get a Cup of coffe and type some Code.
+### Dreams are funny thing , one little twist it all turns dark
+### Get a Cup of coffee and tea  and type some Code with me.
 
 <!--
 **Vishalnotop/Vishalnotop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
