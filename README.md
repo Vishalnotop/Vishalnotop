@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@vishalsamanta16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishalsamanta16" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_not_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_not_op" height="30" width="40" /></a>
-<a href="https://discord.gg/[zoro_not_found](https://discord.com/users/966730193010057257)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zoro_not_found" height="30" width="40" /></a>
+<a href="https://discord.gg/[zoro_not_found](https://discord.com/users/1049383936104603758)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zoro_not_found" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
